@@ -131,7 +131,7 @@ Effective ticket resolution in osTicket involves strong communication, proper ti
 
 <p>
 <img width="1800" alt="Screenshot 2024-12-09 at 7 38 31 PM" src="https://github.com/user-attachments/assets/dd8117e5-4f5c-42e0-8e2d-a346ed6c0592">
-<img width="1800" alt="Screenshot 2024-12-09 at 7 42 57 PM" src="https://github.com/user-attachments/assets/1318cb58-6ab2-4cf9-94f8-855c2126318a">
+<img width="1800" alt="Screenshot 2024-12-09 at 7 50 39 PM" src="https://github.com/user-attachments/assets/9de7333a-3496-4570-86c3-ac4543e6ae73">
 </p>
 
 <h2>Lessons Learned</h2>
