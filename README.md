@@ -51,10 +51,11 @@ To create and submit tickets in osTicket, follow these steps:
    - Click **Submit** to send the ticket request to the support team.
 
 <p>
-<img src="https://i.imgur.com/kTlhwFo.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/RlHNrkW.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/ApsciFm.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 7 00 36 PM" src="https://github.com/user-attachments/assets/8df151a1-768b-4b0d-a7e9-df740829bcba">
+<img width="1800" alt="Screenshot 2024-12-09 at 7 21 06 PM" src="https://github.com/user-attachments/assets/e55f7f90-32a2-4bc4-af80-c84ba1f2c19d">
 </p>
+
+
 
 **Processing Tickets as an Admin in osTicket**
 
@@ -93,10 +94,13 @@ From the perspective of an admin, managing ticket requests involves several key 
      - Admin **Jane** reviewed an incoming ticket and identified it as a critical issue.
      - She assigned the ticket to the **System Administrators** team.
      - Jane updated the ticket's severity level to **Emergency (SEV-A)** to prioritize its resolution within the 1-hour SLA.
+    
+       
+
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 7 30 12 PM" src="https://github.com/user-attachments/assets/89709b43-07eb-4583-bbba-91d31f0d9b6d">
+<img width="1800" alt="Screenshot 2024-12-09 at 7 35 09 PM" src="https://github.com/user-attachments/assets/e2aa0405-549d-464f-88a9-63b09b84690a">
 </p>
 
 
@@ -131,9 +135,8 @@ Effective ticket resolution in osTicket involves strong communication, proper ti
      - Maintain detailed records to serve as references for handling similar issues in the future, promoting consistency and effectiveness.
 
 <p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/pU3kh02.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 7 38 31 PM" src="https://github.com/user-attachments/assets/dd8117e5-4f5c-42e0-8e2d-a346ed6c0592">
+<img width="1800" alt="Screenshot 2024-12-09 at 7 42 57 PM" src="https://github.com/user-attachments/assets/1318cb58-6ab2-4cf9-94f8-855c2126318a">
 </p>
 
 <h2>Lessons Learned</h2>
