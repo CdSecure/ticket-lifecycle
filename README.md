@@ -128,11 +128,6 @@ Effective ticket resolution in osTicket involves strong communication, proper ti
    - **Team Collaboration:**
      - For more complex issues, facilitate collaboration among team members to ensure comprehensive solutions.
 
-4. **Ensure Comprehensive Documentation**
-   - **Record Details:**
-     - Document all aspects of each ticket, including the issue description, steps taken to resolve it, and the final outcome.
-   - **Create References:**
-     - Maintain detailed records to serve as references for handling similar issues in the future, promoting consistency and effectiveness.
 
 <p>
 <img width="1800" alt="Screenshot 2024-12-09 at 7 38 31 PM" src="https://github.com/user-attachments/assets/dd8117e5-4f5c-42e0-8e2d-a346ed6c0592">
