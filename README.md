@@ -24,7 +24,7 @@ As the final step, this lab finalizes your osTicket environment, ensuring that a
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-Creating and Submitting Tickets in osTicket
+<b>Creating and Submitting Tickets in osTicket</b>
 
 To create and submit tickets in osTicket, follow these steps:
 
