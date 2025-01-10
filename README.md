@@ -4,7 +4,7 @@
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
-In this lab, I guide you through the complete lifecycle of a support ticket, from initial intake to final resolution, using the open-source help desk ticketing system, osTicket. This comprehensive walkthrough demonstrates how to effectively utilize osTicket's features to manage and resolve support requests in a real-world environment.
+As the final step, this lab finalizes your osTicket environment, ensuring that all configurations, customizations, and best practices are in place for real-world support. This thorough review guarantees a smooth and efficient workflow for both end-users and administrators alike.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,7 +24,7 @@ In this lab, I guide you through the complete lifecycle of a support ticket, fro
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-**Creating and Submitting Tickets in osTicket**
+Creating and Submitting Tickets in osTicket
 
 To create and submit tickets in osTicket, follow these steps:
 
